@@ -10,7 +10,7 @@ import base64
 import requests
 
 # Set up Google Generative AI API
-API_KEY = "AIzaSyAdyhngHuKeKVEnRotnlY_unC1iFJgX344"
+API_KEY = "######__ENTER_YOUR_PERSONALIZED_API_KEY__########"
 genai.configure(api_key=API_KEY)
 
 # Use the latest Gemini model
